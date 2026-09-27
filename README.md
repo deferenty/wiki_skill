@@ -75,7 +75,7 @@ To analyze, chart, and generate a one-page PDF comparing topic momentum across l
 ## Development Roadmap
 
 ### Phase 2: Enhanced Analytics
-- STL (Seasonal and Trend decomposition using Loess) to isolate recurring academic seasonality.
+- STL (Seasonal and Trend decomposition using LOESS) to isolate recurring academic seasonality.
 - Rolling moving average smoothing options.
 - Year-over-Year (YoY) comparison mode.
 
